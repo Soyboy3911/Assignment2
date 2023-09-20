@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.underline-text{
+  text-decoration:underline;
+}
+
+.highlight-text {
+ display: inline-block;
+    background: #f47601;
+    color: #000000;
+}
+
+.text-color{
+  color:#f50f0f
+}
